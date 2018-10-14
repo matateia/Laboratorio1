@@ -1,6 +1,8 @@
 // Calcolare la media di K voti inseriti
 #include <iostream>
 
+
+// punto di ingresso
 int main() 
 {
     
